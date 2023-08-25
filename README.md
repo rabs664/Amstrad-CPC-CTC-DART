@@ -37,7 +37,7 @@ Note also an FTDI Serial Adapter was used to connect to a Tera Term session.
 PCBs are available from Seeed Studio, waiting for approval.
 
 ## Components
-This Digi Key List contains all components excluding the Z80 CTC, DART and FTDI Serial Adapter.
+This [Digi-Key](https://www.digikey.co.uk/en/mylists/list/81SQJULUKE) List contains all components excluding the Z80 CTC, DART and FTDI Serial Adapter.
 
 ## Assembler
 [RASM](https://github.com/EdouardBERGE/rasm)
