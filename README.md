@@ -1,8 +1,6 @@
 # Amstrad CPC CTC DART
 Simple Z80 CTC and DART board compatible with the Amstrad CPC and MX4 connector
 
-Pic here
-
 ## Objective
 Prototyping board to learn about the Z80 CTC and DART, and how to write Z80 assembly using an Amstrad CPC.
 
