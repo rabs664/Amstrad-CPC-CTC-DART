@@ -1,1 +1,1 @@
-This folder contains some images of the Amstrad CPC CTC DART board and associated test programs.
+This folder contains files associated with the use of KiCad 7 to create the schematics and PCB.
