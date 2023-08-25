@@ -18,10 +18,10 @@ See also;
 ## IO Addressing
 The IO Address can be selected using jumpers, supporting the following base address.
 
-* F8E0
-* F9E0
-* FAE0
-* FBE0
+* F8XX
+* F9XX
+* FAXX
+* FBXX
 
 The CTC is then adressed at XXEO and the DART at XXF0.
 
