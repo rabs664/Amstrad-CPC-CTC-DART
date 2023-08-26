@@ -17,6 +17,7 @@
     Notes: Uses Firmware macro libary to test for ESC key
 
     Version:    1.0 19/08/23 First version
+                1.1 26/08/23 Corrected defintion of 1 Stop bit for WR4.
 
     This file is part of the RAB664 distribution (hhttps://gist.github.com/rabs664).
     Copyright (c) 2023 Robert Bewes.
