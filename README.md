@@ -62,4 +62,4 @@ Peter Murray
 ## Version 1.0
 * First Release
 ## Version 2.0
-* FTDI interface moved to support hardare flow control
+* FTDI interface moved to support hardware flow control
