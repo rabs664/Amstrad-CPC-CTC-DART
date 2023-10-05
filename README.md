@@ -58,6 +58,8 @@ Peter Murray
 
 [@EdouardBERGE](https://github.com/EdouardBERGE)
 
+[@johnwinans](https://github.com/johnwinans)
+
 # Release History
 ## Version 1.0
 * First Release
