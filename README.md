@@ -34,7 +34,7 @@ Note also an FTDI Serial Adapter was used to connect to a Tera Term session.
 
 
 ## PCBs
-PCBs are available from Seeed Studio, waiting for approval.
+PCBs are available from [Seeed Studio](https://www.seeedstudio.com/Amstrad-CPC-CTC-DART-V1-0-g-1398289).
 
 ## Components
 This [Digi-Key](https://www.digikey.co.uk/en/mylists/list/81SQJULUKE) List contains all components excluding the Z80 CTC, DART and FTDI Serial Adapter.
@@ -63,5 +63,3 @@ Peter Murray
 # Release History
 ## Version 1.0
 * First Release
-## Version 2.0
-* FTDI interface moved to support hardware flow control
